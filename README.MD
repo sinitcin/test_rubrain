@@ -25,4 +25,4 @@ cargo build --release
 ./target/release/test_for_job functional_tests/test_data/test_1.txt 
 ```
 
-В случае возникновения вопросов Вы, можете [обратиться напрямую к разработчику](mailto:antonsinitsyn@outlook.de).
+[В случае возникновения вопросов](mailto:antonsinitsyn@outlook.de).
